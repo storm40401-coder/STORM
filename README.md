@@ -3,7 +3,7 @@
 
 I'm **STORM**, a Frontend Web Developer who enjoys creating modern, responsive, and visually engaging websites. I focus on writing clean code, designing intuitive interfaces, and turning ideas into polished digital experiences.
 
-📧 [Email](mailto:storm40401@gmail.com)
+[📧 [Email](mailto:storm40401@gmail.com)
 [🖥️ [Website](https://storm-portfolio-one.vercel.app/) 
 
 ---
