@@ -30,6 +30,7 @@ I care about more than just making websites work.
 ## Featured Projects
 **Web Development**
 A collection of websites, interfaces, experiments, and frontend projects built with modern technologies:
+
 ☁**Skyline Weather**: https://skyline-weather-rho.vercel.app/
 
 💵**SpendWise**: https://spendwise-tracker-iota.vercel.app/
