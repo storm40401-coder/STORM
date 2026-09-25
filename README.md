@@ -47,5 +47,6 @@ A collection of websites, interfaces, experiments, and frontend projects built w
 
 ## 🛠 Tech Stack
 **Frontend**: TypeScript, Tailwind CSS, BoostStrap.
+
 **Cloud**: Firebase, Github.
 
