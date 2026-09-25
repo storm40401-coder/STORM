@@ -56,3 +56,5 @@ A collection of websites, interfaces, experiments, and frontend projects built w
 
 **Cloud**: Firebase, Github.
 
+⭐️ Always open to **collaborations, open-source contributions, and exciting opportunities**.  
+
