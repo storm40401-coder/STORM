@@ -21,7 +21,7 @@ I'm **STORM**, a Frontend Web Developer who enjoys creating modern, responsive, 
 
 **Goal:** Build digital experiences that look great and feel even better
 
-## What I Do
+## <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="28px"> What I Do
   ✦ Responsive Web Development │ ✦ Modern UI Development │ ✦ Interactive Web Experiences │ ✦ Landing Pages & Portfolios │ ✦ UI/UX Implementation │ ✦ Frontend Performance Optimization 
 
 I care about more than just making websites work.
