@@ -26,14 +26,23 @@ I care about more than just making websites work.
 **Web Development**
 A collection of websites, interfaces, experiments, and frontend projects built with modern technologies:
 ☁**Skyline Weather**:https://skyline-weather-rho.vercel.app/
+
 💵**SpendWise**:https://spendwise-tracker-iota.vercel.app/
+
 🌐**RateRelay**:https://relayratefreelancer.vercel.app/
+
 📄**KnZ Smart Audit**
+
 🚀**KnZ Retail IQ**:https://knz-retail-iq.vercel.app/
+
 🤖**Exon AI**:https://exon-ai.vercel.app/
+
 📄**Exon CV Reviewer**:https://exon-cv-reviewer.vercel.app/
+
 💻**Exon HR**(For Interview Practices Only Not Associated With Any IRL Company):https://exon-hr.vercel.app/
+
 🔧**Jamia Yahya Al Madni MS**:https://jym-mms.vercel.app/
+
 📊**Exon Finance**: COMING SOON 🔧
 
 ## 🛠 Tech Stack
