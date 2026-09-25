@@ -10,10 +10,15 @@ I'm **STORM**, a Frontend Web Developer who enjoys creating modern, responsive, 
 
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px"> About Me
 **Name:** STORM
+
 **Role:** Frontend Web Developer
+
 **Focus:** Modern & Responsive Web Experiences
-**Currently:** Building and experimenting with new web projects
+
+**Currently:** Building and experimenting with new web projects and learning frameworks
+
 **Passion:** UI, animations, creative websites & clean code
+
 **Goal:** Build digital experiences that look great and feel even better
 
 ## What I Do
